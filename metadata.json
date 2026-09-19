@@ -1,0 +1,7 @@
+{
+  "name": "LocalStream",
+  "description": "Local-network media server, file manager, media player, and casting renderer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
